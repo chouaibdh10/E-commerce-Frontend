@@ -20,5 +20,5 @@ Ce projet est une boutique en ligne simple développée avec **React**. Il inclu
 - [Framer Motion](https://www.framer.com/motion/)
 - CSS-in-JS avec `style jsx` (style local dans les composants)
 
-## 📂 Structure du projet
+
 
